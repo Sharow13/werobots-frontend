@@ -23,7 +23,7 @@ npm run dev
 ---
 
 > Make sure that you have the backend running otherwise the app won't work.
-> The backend is available at my [we:robots-backend repo]().
+> The backend is available at my [we:robots-backend repo](https://github.com/Sharow13/werobots-backend).
 
 There are timeouts implemented to showcase the pending logic of the `useFormStatus` hook.
 
